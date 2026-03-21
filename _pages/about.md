@@ -26,9 +26,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# 📖 Educations
+
+- *2023.06* - *Present*, Ungraduate student at Nankai University, Tianjin, China.
+
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -40,15 +44,27 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Competitions
+## ACM XCPC
+- *2025.11*, Silver Medal, The 2025 ICPC Asia Shanghai Regional Contest.
+- *2025.11*, Bronze Medal, The 2025 ICPC Asia Nanjing Regional Contest.
+- *2024.11*, Silver Medal, The 2024 ICPC Asia Hangzhou Regional Contest.
+- *2024.10*, Silver Medal, The 2024 ICPC Asia Chengdu Regional Contest.
+- *2024.5*, Gold Medal, The 2024 ICPC China Shaanxi National Invitational Programming Contest.
+- *2023.11*, Bronze Medal, The 2023 ICPC Asia Xi'an Regional Contest.
+- *2023.11*, Bronze Medal, The 2023 ICPC Asia Hefei Regional Contest.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## MCM
+- *2025.11*, The 1st Prize, Tianjin Regional Contest of the National Mathematical Modeling Competition.
+- *2025.02*, Honorable Mention, The 2025 Mathematical Contest in Modeling.
+- *2024.11*, The 2nd Prize, Tianjin Regional Contest of the National Mathematical Modeling Competition.
+
+## Others
+- *2025.11*, The 3rd Prize, The National Student Computer System Development Capability Competition.
+- *2025.05*, The 1st Place, Nankai University "Volcano Cup" AI Application Innovation Competition.
+- *2024.12*, Top 1%, CCF certified software professional.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

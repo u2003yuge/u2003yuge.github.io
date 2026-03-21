@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yicheng Zhang (章壹程)"
+  name             : "Yicheng Zhang\n(章壹程)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
   location         : "Tianjin, China"
