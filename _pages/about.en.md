@@ -42,7 +42,7 @@ I am an undergraduate student at Nankai University, passionate about artificial 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection](https://arxiv.org/abs/2412.20665)
@@ -56,7 +56,7 @@ Yuxuan Li, Xiang Li, Yunheng Li, **Yicheng Zhang**, Yimian Dai, Qibin Hou, Ming-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Visual Instruction Pretraining for Domain-Specific Foundation Models](https://arxiv.org/abs/2509.17562)
