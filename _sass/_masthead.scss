@@ -67,12 +67,15 @@
   right: 0.5em;
   font-size: 0.9em;
 
-  a {
+  button {
     color: $primary-color;
+    background: transparent;
     text-decoration: none;
     padding: 0.5em;
     border: 1px solid $primary-color;
     border-radius: 4px;
+    font: inherit;
+    cursor: pointer;
 
     &:hover {
       background-color: $primary-color;
@@ -80,4 +83,7 @@
     }
   }
 }
+
+html[data-lang="zh-CN"] [lang="en"] { display: none !important; }
+html[data-lang="en"] [lang="zh-CN"] { display: none !important; }
 

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"d:/gitbase/u2003yuge.github.io\" log --oneline -20)",
+      "Bash(git -C \"d:/gitbase/u2003yuge.github.io\" rm \"_pages/about.en.md\")",
+      "Bash(bundle exec *)",
+      "Bash(cmd.exe /c \"where bundle\")"
+    ]
+  }
+}

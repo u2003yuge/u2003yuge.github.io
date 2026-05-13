@@ -162,7 +162,3 @@ compress_html:
   ignore:
     envs: development
 
-# Multilingual
-languages: ["zh-CN", "en"]
-default_lang: "zh-CN"
-exclude_from_localizations: ["javascript", "images", "css"]
