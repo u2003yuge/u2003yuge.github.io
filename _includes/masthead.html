@@ -6,17 +6,17 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
     <div class="language-switcher">
-      {% if page.lang == 'zh-CN' %}
-        <a href="{{ page.url | replace: '/zh-CN/', '/en/' | default: '/en/' }}">EN</a>
+      {% if page.lang == 'en' %}
+        <a href="{{ '/' | relative_url }}">中文</a>
       {% else %}
-        <a href="{{ page.url | replace: '/en/', '/zh-CN/' | default: '/' }}">中文</a>
+        <a href="{{ '/en/' | relative_url }}">English</a>
       {% endif %}
     </div>
   </div>
