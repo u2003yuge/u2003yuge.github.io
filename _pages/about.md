@@ -20,7 +20,7 @@ redirect_from:
 
 <div lang="zh-CN" markdown="1">
 
-我是南开大学计算机学院计算机科学与技术专业本科在读学生。在校期间，我深耕专业领域，积极参与数学建模、算法类各类学科竞赛；同时以第二、第四作者身份，发表两篇计算机视觉-遥感方向学术论文。学生工作方面，我曾任南开大学 ACM 算法协会社长、团支书，还担任过数据库系统课程助教，积累了丰富的社团管理与教学辅助经验。
+我是南开大学计算机学院计算机科学与技术专业本科在读学生。在校期间，我深耕专业领域，积极参与数学建模、算法类各类学科竞赛；同时以第二、第四作者身份，发表两篇计算机视觉-遥感方向学术论文。学生工作方面，我现任南开大学 ACM 算法协会社长、团支书，还担任过数据库系统课程助教，积累了丰富的社团管理与教学辅助经验。
 
 </div>
 <div lang="en" markdown="1">
@@ -51,11 +51,11 @@ I am an undergraduate student majoring in Computer Science and Technology at the
 <div lang="zh-CN" markdown="1">
 
 # 个人经历
-- 2024 - 2026, 于ReductLab 实习。
+- 2024 - 2026, 于ReductLab实习。
 - 2026.02 - 2026.06, 任南开大学数据库系统课程计卓班助教。 [**视频**](https://www.bilibili.com/video/BV13kA7zbEX3/)。
 - 2025.09 - 2026.06, 任南开大学ACM算法协会社长兼团支书。（获评2026年度五四红旗团支部标兵、先进社团）
 - 2024 - 2026, 组织举办南开大学ACM新生赛与校赛各两场。
-- 2025.04，联合举办第一届津冀联合高校大学生程序设计竞赛。[**赛后总结**](https://zhuanlan.zhihu.com/p/2032189513695499631)
+- 2026.04，联合举办第一届津冀联合高校大学生程序设计竞赛。[**赛后总结**](https://zhuanlan.zhihu.com/p/2032189513695499631)
 
 </div>
 <div lang="en" markdown="1">
@@ -84,7 +84,7 @@ I am an undergraduate student majoring in Computer Science and Technology at the
 
 <div lang="zh-CN" markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/ViTP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection](https://arxiv.org/abs/2412.20665)
@@ -98,7 +98,7 @@ Yuxuan Li, Xiang Li, Yunheng Li, **Yicheng Zhang**, Yimian Dai, Qibin Hou, Ming-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">在投</div><img src='/images/ViTP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Visual Instruction Pretraining for Domain-Specific Foundation Models](https://arxiv.org/abs/2509.17562)
@@ -115,7 +115,7 @@ Yuxuan Li, **Yicheng Zhang**, Wenhao Tang, Yimian Dai, Ming-Ming Cheng, Xiang Li
 </div>
 <div lang="en" markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='/images/SM3Det.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection](https://arxiv.org/abs/2412.20665)
@@ -129,7 +129,7 @@ Yuxuan Li, Xiang Li, Yunheng Li, **Yicheng Zhang**, Yimian Dai, Qibin Hou, Ming-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='/images/SM3Det.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Visual Instruction Pretraining for Domain-Specific Foundation Models](https://arxiv.org/abs/2509.17562)
