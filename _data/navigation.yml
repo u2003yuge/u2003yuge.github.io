@@ -4,10 +4,6 @@ main:
     title_en: "About Me"
     url: "#about-me"
 
-  - title_zh: "新闻"
-    title_en: "News"
-    url: "#news"
-
   - title_zh: "教育"
     title_en: "Education"
     url: "#education"

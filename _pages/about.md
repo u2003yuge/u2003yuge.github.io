@@ -20,29 +20,12 @@ redirect_from:
 
 <div lang="zh-CN" markdown="1">
 
-我是南开大学的一名本科生，对人工智能和计算机科学充满热情。我的研究兴趣包括神经机器翻译和计算机视觉。我已在顶级国际AI会议上发表了100多篇论文，总<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>谷歌学术引用<strong><span id='total_cit'>260000+</span></strong></a>（您也可以使用谷歌学术徽章<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>）。
+我是南开大学计算机学院计算机科学与技术专业本科在读学生。在校期间，我深耕专业领域，积极参与数学建模、算法类各类学科竞赛；同时以第二、第四作者身份，发表两篇计算机视觉-遥感方向学术论文。学生工作方面，我曾任南开大学 ACM 算法协会社长、团支书，还担任过数据库系统课程助教，积累了丰富的社团管理与教学辅助经验。
 
 </div>
 <div lang="en" markdown="1">
 
-I am an undergraduate student at Nankai University, passionate about artificial intelligence and computer science. My research interests include neural machine translation and computer vision. I have published more than 100 papers at top international AI conferences with a total of <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>Google Scholar citations <strong><span id='total_cit_en'>260000+</span></strong></a> (You can also use the Google Scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-</div>
-
-<span class='anchor' id='news'></span>
-
-<div lang="zh-CN" markdown="1">
-
-# 🔥 新闻
-- *2022.02*: &nbsp;🎉🎉 激动人心的消息！Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 另一个更新：Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-</div>
-<div lang="en" markdown="1">
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Exciting news! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Another update: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+I am an undergraduate student majoring in Computer Science and Technology at the College of Computer Science, Nankai University. During my studies, I have engaged deeply with my major, actively competing in mathematical modeling and algorithm-related contests; I have also co-authored two papers in computer vision and remote sensing as the second and fourth author respectively. On the student-leadership side, I served as President and Youth League Secretary of the Nankai University ACM Algorithm Association, and as a Teaching Assistant for the Database Systems course, accumulating extensive experience in association management and instructional support.
 
 </div>
 
@@ -183,6 +166,7 @@ Yuxuan Li, **Yicheng Zhang**, Wenhao Tang, Yimian Dai, Ming-Ming Cheng, Xiang Li
 
 ## 其他
 - *2025.11*, 三等奖, 全国大学生计算机系统能力大赛（先导杯）。
+- *2025.08*，金奖，第七届码蹄杯全国大学生程序设计竞赛国赛。
 - *2025.05*, 第一名, 南开大学"火山杯"AI应用创新大赛。
 - *2024.12*, 前1%, CCF CSP认证。
 
@@ -206,6 +190,7 @@ Yuxuan Li, **Yicheng Zhang**, Wenhao Tang, Yimian Dai, Ming-Ming Cheng, Xiang Li
 
 ## Others
 - *2025.11*, The 3rd Prize, The National Student Computer System Development Capability Competition.
+- *2025.08*, Gold Award, The 7th "Matiebei" National Collegiate Programming Contest (National Finals).
 - *2025.05*, The 1st Place, Nankai University "Volcano Cup" AI Application Innovation Competition.
 - *2024.12*, Top 1%, CCF Certified Software Professional.
 
