@@ -19,3 +19,7 @@ main:
   - title_zh: "竞赛"
     title_en: "Competitions"
     url: "#competitions"
+
+  - title_zh: "奖学金"
+    title_en: "Scholarships"
+    url: "#scholarships"

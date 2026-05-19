@@ -84,7 +84,7 @@ I am an undergraduate student majoring in Computer Science and Technology at the
 
 <div lang="zh-CN" markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/ViTP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/SM3Det.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection](https://arxiv.org/abs/2412.20665)
@@ -129,7 +129,7 @@ Yuxuan Li, Xiang Li, Yunheng Li, **Yicheng Zhang**, Yimian Dai, Qibin Hou, Ming-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='/images/SM3Det.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/ViTP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Visual Instruction Pretraining for Domain-Specific Foundation Models](https://arxiv.org/abs/2509.17562)
@@ -193,5 +193,22 @@ Yuxuan Li, **Yicheng Zhang**, Wenhao Tang, Yimian Dai, Ming-Ming Cheng, Xiang Li
 - *2025.08*, Gold Award, The 7th "Matiebei" National Collegiate Programming Contest (National Finals).
 - *2025.05*, The 1st Place, Nankai University "Volcano Cup" AI Application Innovation Competition.
 - *2024.12*, Top 1%, CCF Certified Software Professional.
+
+</div>
+
+<span class='anchor' id='scholarships'></span>
+
+<div lang="zh-CN" markdown="1">
+
+# 🎓 奖学金
+- *2025*, 南开大学创新奖学金。
+- *2024*, 南开大学创新奖学金。
+
+</div>
+<div lang="en" markdown="1">
+
+# 🎓 Scholarships
+- *2025*, Nankai University Innovation Scholarship.
+- *2024*, Nankai University Innovation Scholarship.
 
 </div>
