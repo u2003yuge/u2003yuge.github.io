@@ -84,7 +84,7 @@ I am an undergraduate student majoring in Computer Science and Technology at the
 
 <div lang="zh-CN" markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/SM3Det.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 26 Oral</div><img src='/images/SM3Det.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection](https://arxiv.org/abs/2412.20665)
